@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @olavsdtr
+- 👀 I’m interested in UX design, frontend and digital art
+- 🌱 I’m currently learning React and Sanity
