@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @olavsdtr
 - 🤓 I'm studying for a master in Applied Computer Science
 - 👀 I’m interested in UX design, frontend and digital art
-- 🌱 I’m currently learning Python and Next
+- 🌱 I’m currently learning Python in my spare time
